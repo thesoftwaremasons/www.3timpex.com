@@ -1,0 +1,35 @@
+.elementor-24377 .elementor-element.elementor-element-824ff63{--display:flex;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}/* Start custom CSS for shortcode, class: .elementor-element-bc30305 */.promo_score,
+.prod_score,
+.pricing_score,
+.predis_score,
+.purpose_score,
+.payment_score,
+.production_score,
+.positioning_score,
+.prof_score,
+.people_score,
+.paper_score,
+.potent_score,
+.promotion_score,
+.purchasers_score,
+.partner_score,
+.total_hide,
+.perc_hide {
+    display: none !important;
+}
+
+.ff-btn-prev, 
+.ff-btn-next {
+    background-color: #FF0000 !important;
+    color: white !important;
+    border: none !important;
+    padding: 10px 20px !important;
+    border-radius: 5px !important;
+    font-weight: bold !important;
+}
+
+.ff-btn-prev:hover, 
+.ff-btn-next:hover {
+    background-color: #CC0000 !important;
+    transition: background-color 0.3s ease !important;
+}/* End custom CSS */
